@@ -7,6 +7,7 @@ Desktop="Desktop"
 
 [Globals]
 AutoSaveProject=1
+UsedLibrary="/opt/eagle-5.11.0/lbr/NBitWonder.lbr"
 UsedLibrary="/opt/eagle-5.11.0/lbr/adafruit.lbr"
 UsedLibrary="/opt/eagle-5.10.0/lbr/19inch.lbr"
 UsedLibrary="/opt/eagle-5.10.0/lbr/40xx.lbr"
@@ -324,11 +325,10 @@ UsedLibrary="/opt/eagle-5.10.0/lbr/zetex.lbr"
 UsedLibrary="/opt/eagle-5.10.0/lbr/zilog.lbr"
 UsedLibrary="/home/agmlego/Dropbox/Projects/eagle/SparkFun.lbr"
 UsedLibrary="/home/agmlego/Dropbox/Projects/eagle/custom_library.lbr"
-UsedLibrary="/opt/eagle-5.11.0/lbr/NBitWonder.lbr"
 
 [Win_1]
 Type="Control Panel"
-Loc="21 618 620 1017"
+Loc="181 191 780 590"
 State=2
 Number=0
 
