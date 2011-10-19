@@ -2,3 +2,4 @@ OldVersions/
 lockfile.lck
 *.b#*
 *.s#*
+*.l#*
